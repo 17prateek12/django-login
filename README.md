@@ -9,9 +9,9 @@ Note: Steps 1 and 2 are optional; if you already have Django installed in your s
 5. Then Run commmand python manage.py runserver and go to port 8000.
 
 #Application consist of 
-1 dashboard that welcome user
-2 Login
-3 Signup
+1. dashboard that welcome user
+2. Login
+3. Signup
 Used Django-inbuilt user model
 
 HTML and bootstrap for frontend
